@@ -1,0 +1,1 @@
+const e={key:"v-456cc6d6",path:"/docs/theme-reco/plugin.html",title:"plugin",lang:"en-US",frontmatter:{title:"plugin",date:"2020/05/28"},excerpt:"",headers:[],git:{createdTime:1655630653e3,updatedTime:1655630653e3,contributors:[{name:"J.H",email:"473731589@qq.com",commits:1}]},filePathRelative:"docs/theme-reco/plugin.md"};export{e as data};
